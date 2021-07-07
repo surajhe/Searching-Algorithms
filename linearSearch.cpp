@@ -8,7 +8,7 @@
 
 // Program is taking 3 inputs from user 1. array size 2. array values 3.key to search.
 // Program output is index of array[] at which key is found.
-// Time complexity is O(n) as execution time increases as no. of inputs n  
+// Time complexity is O(n) execution time increases as no. of inputs n  
 
 #include <iostream>
 
