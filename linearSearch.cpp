@@ -2,13 +2,12 @@
 
                               Online C++ Compiler.
                Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
 
 
-// Taking input from user array size, array values and key to search.
-// 
+// Program is taking 3 inputs from user 1. array size 2. array values 3.key to search.
+// Program output is index of array[] at which key is found.
 
 #include <iostream>
 
